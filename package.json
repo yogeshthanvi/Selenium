@@ -1,0 +1,26 @@
+{
+	"name": "seleniumandJavaScript",
+	"version": "1.0.0",
+	"description": "This is a test project for practicing the selenium webdriver using browser.",
+	"main": "index.js",
+	"scripts": {
+		"test": "npm test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yogeshthanvi/SeleniumandJavaScript-.git"
+	},
+	"keywords": [
+		"selenium"
+	],
+	"author": "Yogesh Thanvi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/yogeshthanvi/SeleniumandJavaScript-/issues"
+	},
+	"homepage": "https://github.com/yogeshthanvi/SeleniumandJavaScript-#readme",
+	"dependencies": {
+		"mocha": "^5.2.0",
+		"selenium-webdriver": "^4.0.0-alpha.1"
+	}
+}
